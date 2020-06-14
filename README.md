@@ -38,6 +38,12 @@ $ python2 bbomb.py
 <br/>
 ...
 <br/>
+USERNAME : botol
+<br/>
+PASSWORD : botol
+<br/>
+...
+<br/>
 
 * Note:- Don't try to edit or modify this tool.
 
